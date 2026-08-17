@@ -18,13 +18,9 @@ sub al,3
 mov ax,203
 mov bl,4
 div bl
-            
-;04_multiplaction
-mov al,200
-mov bl,4
-mul bl
-            
-            
+
+
+              
 ret
 
 
