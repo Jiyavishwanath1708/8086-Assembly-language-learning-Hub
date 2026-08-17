@@ -100,7 +100,7 @@ Addition       +
 Subtraction    -
 Multiplication *
 Division       /
-## 🔤 Project 2 — Vowel Counter
+
 ```
 ### 🧮 02 — Vowel counter
 **File:** `project_2_vowel_counter.asm`
